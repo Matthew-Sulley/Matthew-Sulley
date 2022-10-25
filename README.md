@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Matthew Sulley
+- 👀 I’m interested in expanding my skill set to give myself more opportunities
+- 🌱 I’m currently learning coding in C
+- Keeping this simple as I don't want to fluff it up
+- 📫 How to reach me sulley.invictus@gmail.com
